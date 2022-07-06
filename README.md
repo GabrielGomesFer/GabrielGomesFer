@@ -34,4 +34,5 @@ src="https://img.shields.io/github/followers/GabrielGomesFer?logo=github&style=f
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/GabrielGomesFer"><img src="https://github-readme-stats.vercel.app/api?username=GabrielGomesFer&show_icons=true&hide=issues,contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="GabrielGomesFer's GitHub stats" /></a>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=nightowl&show_icons=true)
+
