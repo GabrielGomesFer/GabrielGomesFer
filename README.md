@@ -7,7 +7,7 @@ Full-Stack Web Developer
 I'm learning software development since November 2021
 
 * 🌍  I'm based in Rio de Janeiro
-* 🖥️  See my portfolio at [Portfolio](http://gabrielgomesfer.github.io/Portfolio/)
+* 🖥️  See my portfolio at [Here](http://gabrielgomesfer.github.io/Portfolio/)
 * 🧠  I'm learning React
 
 <a href="https://www.github.com/GabrielGomesFer" target="_blank" rel="noreferrer"><img
