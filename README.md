@@ -13,6 +13,11 @@ I'm learning software development since November 2021
 <a href="https://www.github.com/GabrielGomesFer" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/GabrielGomesFer?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
+
+<a href="https://www.codewars.com/users/GabrielGomesFer/" target="_blank" rel="noreferrer"><img
+src="https://www.codewars.com/users/GabrielGomesFer/badges/large" /></a>
+
+
 ### Skills
 
 <p align="left">
